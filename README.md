@@ -4,15 +4,15 @@ A quick implementation of DecafMUD for Waterpoint
 
 ## Building
 
-1. `npm install`
-1. `npm run build`
+1. `yarn install`
+1. `yarn run build`
 
 Output is in `dist/`
 
 ## Developing
 
-1. `npm install`
-2. `npm run start:dev`
+1. `yarn install`
+2. `yarn run start:dev`
 
 ## Websocket to TCP proxy
 
