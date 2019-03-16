@@ -1792,7 +1792,7 @@ DecafMUD.options = {
 	// Plugins to use
 	storage			: 'standard',
 	display			: 'standard',
-	encoding		: 'iso88591',
+	encoding		: 'utf-8',
 	socket			: 'flash',
 	interface		: 'simple',
 	language		: 'autodetect',
