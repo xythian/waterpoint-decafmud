@@ -10,12 +10,12 @@ import "./DecafMUD/src/css/decafmud.css"
 import "./DecafMUD/src/css/decafmud-dark.css"
 
 new DecafMUD({
-    host: "waterpoint-wss.the-b.org",
+    host: "moo.waterpoint.org",
     autoreconnect: false,
     autoconnect: true,
 
     set_socket: {
-        wsport: 443,
+        wsport: 8302,
         wspath: "/client/websocket",
         ssl: true
     },
